@@ -3,7 +3,14 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [7.4.2-develop.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.4.2-develop.0) (2025-04-04)
+## [7.4.3-develop.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.2...v7.4.3-develop.2) (2025-04-04)
+
+
+### Bug-Fixes
+
+* nuget push noew by command ([66e1f98](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/66e1f98abd238e1a3757b24d2feb996ea4fee3ef))
+
+## [7.4.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.4.2) (2025-04-04)
 
 
 ### Bug-Fixes
