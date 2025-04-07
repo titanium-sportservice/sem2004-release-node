@@ -3,6 +3,18 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.4.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/compare/v1.3.1...v1.4.1) (2025-04-07)
+
+
+### Features
+
+* WPS 2025 points implemented ([488ca45](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/commit/488ca4556bfc7dea3a3af9ab39b6af6b0a0b0096)), closes [#441](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/issues/441)
+
+
+### Bug-Fixes
+
+* **build:** nuget restore - replaced with - dotnet restore ([a34520e](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/commit/a34520e1961246c8a2d5779a1c1df32fdd25778f))
+
 ## [1.3.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/compare/v1.2.0...v1.3.1) (2025-04-05)
 
 
