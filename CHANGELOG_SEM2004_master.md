@@ -3,6 +3,14 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [7.10.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.0) (2025-04-10)
+
+
+### Features
+
+* **build:** syncro auf development and master pipeline ([1fd82d0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1fd82d0774ae1a41b10eae78373314d85bd03598))
+* **install:** add DotNetInterop to installer ([f2efb81](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/f2efb817f6435b952669d57e04b978ed6f3fc2dd))
+
 ## [7.8.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.7.0...v7.8.0) (2025-04-10)
 
 
@@ -18,28 +26,20 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 * add Instaler Project ([04063ba](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/04063baab12aa4186d1b25d930e6f7e13193a1b7))
 * create meeting from menu ([97ca25d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/97ca25d0d6348878aa7311083c052f8f1d7633d5))
 
-## [7.5.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.4...v7.5.0) (2025-04-07)
+## [7.5.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.5.0) (2025-04-07)
 
 
 ### Features
 
 * WPS 2025 points implemented ([1580c4d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1580c4dca08d1d632fc8930098a62c5a677466e0)), closes [#440](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/issues/440)
 
-## [7.4.4](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.2...v7.4.4) (2025-04-04)
-
-
-### Bug-Fixes
-
-* nuget push now by command for dev ([25dcd67](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/25dcd67a2e58af3116c268cf9b02bd20dacce042))
-* nuget push now by command for master ([e1724c1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/e1724c1f373a588f805a4863e2cebd827e2d75fd))
-
-## [7.4.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.4.2) (2025-04-04)
-
 
 ### Bug-Fixes
 
 * **build:** remove Athenticate from master pipeline ([487275d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/487275d6b8c72a47ed3e7f67e043e1fade11245b))
 * **build:** tag-force for master pipeline ([b81d164](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b81d1642fb12143a1c3d9085647d1e848ef6ab6d))
+* nuget push now by command for dev ([25dcd67](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/25dcd67a2e58af3116c268cf9b02bd20dacce042))
+* nuget push now by command for master ([e1724c1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/e1724c1f373a588f805a4863e2cebd827e2d75fd))
 
 ## [7.4.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.3.0...v7.4.0) (2025-04-04)
 
@@ -60,16 +60,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 * **ui:** cleanup of "Hilfe" menu ([1b59800](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1b59800bf2fd8afef7939814c7019f2b8abbda91))
 
-## [7.2.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v0.0.0...v7.2.0) (2025-04-04)
-
-
-### Features
-
-* SEM2004 version Jan 2025 ([47c0aab](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/47c0aab45df89b8991994d23b33ea0e704567a28))
-
-## [0.0.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/8004db2bb7ef4412ffb89db3a165952b028a8bd0...v0.0.0) (2025-04-04)
+## [7.2.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/8004db2bb7ef4412ffb89db3a165952b028a8bd0...v7.2.0) (2025-04-04)
 
 
 ### Features
 
 * Initial project version ([8004db2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/8004db2bb7ef4412ffb89db3a165952b028a8bd0))
+* SEM2004 version Jan 2025 ([47c0aab](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/47c0aab45df89b8991994d23b33ea0e704567a28))
