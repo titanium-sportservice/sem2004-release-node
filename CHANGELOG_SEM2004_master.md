@@ -3,7 +3,7 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [7.10.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.1) (2025-04-10)
+## [7.10.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.2) (2025-04-10)
 
 
 ### Features
@@ -14,6 +14,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Bug-Fixes
 
+* **build:** registering of DotNetInterop ([18546d2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/18546d29504bbd4ef76df4223cceaf369f3a6c1b))
 * **build:** update Register od DLLs ([640af89](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/640af895a94cf96bc5a1103a68490e121b13b9ca))
 
 ## [7.8.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.7.0...v7.8.0) (2025-04-10)
