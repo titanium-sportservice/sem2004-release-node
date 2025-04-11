@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [7.10.3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.10.2...v7.10.3) (2025-04-11)
+
+
+### Bug-Fixes
+
+* **install:** store Path and Version in registry key ([b3f0cc5](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b3f0cc5ca5d343f7e73cd4a994bc4659fe1dc09e))
+
 ## [7.10.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.2) (2025-04-10)
 
 
