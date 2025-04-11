@@ -3,26 +3,35 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [7.10.3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.10.2...v7.10.3) (2025-04-11)
+## [8.0.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.10.0...v8.0.0) (2025-04-11)
 
 
-### Bug-Fixes
+### ⚠ BREAKING CHANGES
 
-* **install:** store Path and Version in registry key ([b3f0cc5](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b3f0cc5ca5d343f7e73cd4a994bc4659fe1dc09e))
+* Database migration of table "Wettkampf"
 
-## [7.10.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.2) (2025-04-10)
-
+The database field "addResultsFromEventId" was added to the
+"Wettkampf" table.
 
 ### Features
 
-* **build:** syncro auf development and master pipeline ([1fd82d0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1fd82d0774ae1a41b10eae78373314d85bd03598))
-* **install:** add DotNetInterop to installer ([f2efb81](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/f2efb817f6435b952669d57e04b978ed6f3fc2dd))
+* now you can combine the results from different events ([40f3bd5](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/40f3bd5ac7dd733748ddd70edbf1e4a6c6a00ca6))
+* **ui:** show eventId in event tree ([b167200](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b167200afb85ef5b7337f2baeee05f88876a54ba))
 
 
 ### Bug-Fixes
 
 * **build:** registering of DotNetInterop ([18546d2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/18546d29504bbd4ef76df4223cceaf369f3a6c1b))
 * **build:** update Register od DLLs ([640af89](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/640af895a94cf96bc5a1103a68490e121b13b9ca))
+* **install:** store Path and Version in registry key ([b3f0cc5](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b3f0cc5ca5d343f7e73cd4a994bc4659fe1dc09e))
+
+## [7.10.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.8.0...v7.10.0) (2025-04-10)
+
+
+### Features
+
+* **build:** syncro auf development and master pipeline ([1fd82d0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1fd82d0774ae1a41b10eae78373314d85bd03598))
+* **install:** add DotNetInterop to installer ([f2efb81](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/f2efb817f6435b952669d57e04b978ed6f3fc2dd))
 
 ## [7.8.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.7.0...v7.8.0) (2025-04-10)
 
