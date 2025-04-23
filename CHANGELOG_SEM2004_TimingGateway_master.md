@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.5.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/compare/v1.4.1...v1.5.0) (2025-04-23)
+
+
+### Features
+
+* Update FQQL and Resulting Version to 8 ([e7da67c](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/commit/e7da67c0078f8cd868c2a7ed859a0882a910d3ef))
+
 ## [1.4.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_TimingGW/compare/v1.3.1...v1.4.1) (2025-04-07)
 
 
