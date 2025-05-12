@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [8.1.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v8.0.0...v8.1.0) (2025-05-12)
+
+
+### Features
+
+* input of RAW times in the entry list by using "*" ([4ce6355](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/4ce63559a70ac7e9b7592ecbb9fcea602fd7ddd9))
+
 ## [8.0.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.10.0...v8.0.0) (2025-04-11)
 
 
