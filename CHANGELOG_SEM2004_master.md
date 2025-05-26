@@ -3,6 +3,23 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [9.0.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v8.1.0...v9.0.0) (2025-05-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* Database migration of table "start", "ergebnis"
+
+The database field "rekordLong" and "rekordIdLong" was added to the
+"Wettkampf" table.
+The database field "rankIndex", "medal" and "teamPoints" was added to
+the"ergebnis" table.
+
+### Features
+
+* Net8 CurrentHeatForm and SwimPointLib implemented ([b8e49f2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b8e49f27aa3ddcdfe514f68fdf8ca317ce470798))
+* RecordLib and FQQL Manager implemented in DotNetLib ([79fe210](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/79fe210bf0252d01125004c753b6a43e3fed67de))
+
 ## [8.1.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v8.0.0...v8.1.0) (2025-05-12)
 
 
