@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [9.1.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.0...v9.1.1) (2025-05-30)
+
+
+### Bug-Fixes
+
+* day time clock format and DotNetLib-fix ([62187f0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/62187f0fb9b884b53f4def67a45d8aaeecdbe94e))
+
 ## [9.1.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.0.0...v9.1.0) (2025-05-29)
 
 
@@ -105,10 +112,3 @@ The database field "addResultsFromEventId" was added to the
 ### Documentation
 
 * add commit message guidlines ([04ce9a3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/04ce9a394cad29809ddb778ad3c14ce6235e03eb))
-
-## [7.3.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.2.0...v7.3.0) (2025-04-04)
-
-
-### Features
-
-* **ui:** cleanup of "Hilfe" menu ([1b59800](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1b59800bf2fd8afef7939814c7019f2b8abbda91))
