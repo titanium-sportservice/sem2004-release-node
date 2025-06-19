@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [9.1.3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.2...v9.1.3) (2025-06-19)
+
+
+### Bug-Fixes
+
+* Time Format in DotNetLib ([177f3fb](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/177f3fb5c81b4d709566ed87b52aaa2caa77822c))
+
 ## [9.1.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.1...v9.1.2) (2025-06-19)
 
 
@@ -92,18 +99,3 @@ The database field "addResultsFromEventId" was added to the
 
 * add Instaler Project ([04063ba](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/04063baab12aa4186d1b25d930e6f7e13193a1b7))
 * create meeting from menu ([97ca25d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/97ca25d0d6348878aa7311083c052f8f1d7633d5))
-
-## [7.5.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.5.0) (2025-04-07)
-
-
-### Features
-
-* WPS 2025 points implemented ([1580c4d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1580c4dca08d1d632fc8930098a62c5a677466e0)), closes [#440](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/issues/440)
-
-
-### Bug-Fixes
-
-* **build:** remove Athenticate from master pipeline ([487275d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/487275d6b8c72a47ed3e7f67e043e1fade11245b))
-* **build:** tag-force for master pipeline ([b81d164](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b81d1642fb12143a1c3d9085647d1e848ef6ab6d))
-* nuget push now by command for dev ([25dcd67](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/25dcd67a2e58af3116c268cf9b02bd20dacce042))
-* nuget push now by command for master ([e1724c1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/e1724c1f373a588f805a4863e2cebd827e2d75fd))
