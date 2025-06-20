@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [0.35.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.35.0...v0.35.1) (2025-06-20)
+
+
+### Bug-Fixes
+
+* sport classes in relays was wrong ([322e1cb](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/commit/322e1cb7f14af214cdf13cb9ce4b7714d966b0f8))
+
 ## [0.35.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.32.0...v0.35.0) (2025-04-12)
 
 
