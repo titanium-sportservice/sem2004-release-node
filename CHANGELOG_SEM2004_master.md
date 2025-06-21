@@ -3,33 +3,20 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [9.1.4](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.3...v9.1.4) (2025-06-20)
+## [9.2.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.0...v9.2.0) (2025-06-21)
 
 
-### Bug-Fixes
+### Features
 
-* update DotNetLib - point calculation ([16eda86](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/16eda86bf7c012fbc40c366c3d55bafd3a9f430f))
-
-## [9.1.3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.2...v9.1.3) (2025-06-19)
-
-
-### Bug-Fixes
-
-* Time Format in DotNetLib ([177f3fb](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/177f3fb5c81b4d709566ed87b52aaa2caa77822c))
-
-## [9.1.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.1...v9.1.2) (2025-06-19)
-
-
-### Bug-Fixes
-
-* Record Check time format ([27e499e](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/27e499eb9859f18c52ab0bc5593487414d5ba24f))
-
-## [9.1.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.1.0...v9.1.1) (2025-05-30)
+* export sport class status to WPS record file ([e516106](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/e5161068e5775dfd8051ac25bfeafc3f5ee41da6))
 
 
 ### Bug-Fixes
 
 * day time clock format and DotNetLib-fix ([62187f0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/62187f0fb9b884b53f4def67a45d8aaeecdbe94e))
+* Record Check time format ([27e499e](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/27e499eb9859f18c52ab0bc5593487414d5ba24f))
+* Time Format in DotNetLib ([177f3fb](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/177f3fb5c81b4d709566ed87b52aaa2caa77822c))
+* update DotNetLib - point calculation ([16eda86](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/16eda86bf7c012fbc40c366c3d55bafd3a9f430f))
 
 ## [9.1.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v9.0.0...v9.1.0) (2025-05-29)
 
@@ -98,3 +85,38 @@ The database field "addResultsFromEventId" was added to the
 ### Features
 
 * **build:**  update master pipeline for perfect build ([bcd0ebb](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/bcd0ebb1aad43ce13f4eaef1797c8094a488297f))
+
+## [7.7.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.5.0...v7.7.0) (2025-04-09)
+
+
+### Features
+
+* add Instaler Project ([04063ba](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/04063baab12aa4186d1b25d930e6f7e13193a1b7))
+* create meeting from menu ([97ca25d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/97ca25d0d6348878aa7311083c052f8f1d7633d5))
+
+## [7.5.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.4.0...v7.5.0) (2025-04-07)
+
+
+### Features
+
+* WPS 2025 points implemented ([1580c4d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/1580c4dca08d1d632fc8930098a62c5a677466e0)), closes [#440](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/issues/440)
+
+
+### Bug-Fixes
+
+* **build:** remove Athenticate from master pipeline ([487275d](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/487275d6b8c72a47ed3e7f67e043e1fade11245b))
+* **build:** tag-force for master pipeline ([b81d164](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b81d1642fb12143a1c3d9085647d1e848ef6ab6d))
+* nuget push now by command for dev ([25dcd67](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/25dcd67a2e58af3116c268cf9b02bd20dacce042))
+* nuget push now by command for master ([e1724c1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/e1724c1f373a588f805a4863e2cebd827e2d75fd))
+
+## [7.4.0](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/compare/v7.3.0...v7.4.0) (2025-04-04)
+
+
+### Features
+
+* FQQL as nuget pack ([b0609a1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/b0609a14d66758386bbeac45f3589624d1b7a50a))
+
+
+### Documentation
+
+* add commit message guidlines ([04ce9a3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004/commit/04ce9a394cad29809ddb778ad3c14ce6235e03eb))
