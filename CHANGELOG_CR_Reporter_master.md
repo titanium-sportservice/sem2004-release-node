@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [0.35.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.35.1...v0.35.2) (2025-06-21)
+
+
+### Bug-Fixes
+
+* Team result calculation by using Teams and Clubs as mix ([1725542](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/commit/17255423bdaac8bbb8dabb2fbc56b69a84d996e5))
+
 ## [0.35.1](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.35.0...v0.35.1) (2025-06-20)
 
 
