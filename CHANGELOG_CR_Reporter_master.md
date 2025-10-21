@@ -3,6 +3,13 @@
 This document maintains a list of released versions and changes introduced by them.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [0.35.3](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.35.2...v0.35.3) (2025-10-21)
+
+
+### Bug-Fixes
+
+* C51 header and legends for WPS ([61f9663](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/commit/61f96634d2569afde7ef73e90605c92aad134bdd))
+
 ## [0.35.2](https://dev.azure.com/titanium-sportservice/SPORT_SWM_SEM2004/_git/SPORT_SWM_SEM2004_CR_Reporter/compare/v0.35.1...v0.35.2) (2025-06-21)
 
 
